@@ -1,0 +1,17 @@
+RELATÓRIO DA ATIVIDADE "Reposição de 6 aulas"
+
+Geral
+	A atividade foi interessante para fazer uma exploração do App Inventor, achei bastante interessante para quem está iniciando no desenvolvimento Android, tanto que até estou tentando passar para meu irmão mais novo (ele tem somente 10 anos de idade), pois já a programação de bloco, na minha opinião é algo ótimo para quem quer ter o primeiro contato com lógica de programação. Acho essa uma iniciativa muito legal, pois comigo foi o famoso Pascal, que, nada contra essa linguagem, porém quem aprende ela não sente uma possibilidade de aplicar o aprendizado no dia a dia. Com o App Inventor, não dizendo que a pessoa vá utilizar para o trabalho ou algo assim, porém a pessoa pode instalar o .apk do aplicativo que ela mesma fez ali e executar. Acredito que isso dá muito mais importância à ferramenta.
+
+Dificuldades
+	Nada muito complexo, foi mais por nem ter costume com a ferramenta.
+	Tive mais problemas foi com o Rastreador de Cargas, porém ficará mais adiante.
+
+Melhorias
+	Pega Mosquito
+		- Agora, ao clicar no botão Jogar, o som toca ao fundo sem dar erro.
+		- O mosquito não desaparece mais na tela.
+		- Tomei a liberdade de tornar o jogo um pouco mais desafiador: o mosquito que tem 3 vidas agora e ao se colidir com o sapo, você perde.
+
+	Rastreador de Cargas
+		Infelizmente, não compreendi a ideia desse aplicativo, então não sabia como fazer qualquer melhoria nele.
